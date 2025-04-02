@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+llm/
+
+api_keys.py
+
+sample.pdf
+
+embeddings.index
+
+mappings.json
